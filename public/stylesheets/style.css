@@ -1,0 +1,41 @@
+html {
+	background: #f0efea;
+	background: linear-gradient(#a3a2a0, #648880);
+	font: 300 16px/28px "Noto Sans", sans-serif;
+}
+h1 {
+	text-align: center;
+	color: #005e07;
+	text-decoration: underline;
+	padding-bottom: 14px;
+}
+img {
+	display: block;
+	max-height: 325px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 20px;
+}
+section {
+	float: left;
+	margin: 0 1.5%;
+	width: 30%;
+	padding-bottom: 20px;
+}
+h3 {
+	text-align: center;
+}
+hr {
+	clear: both;
+}
+footer {
+	clear: both;
+	text-align: center;
+}
+a {
+	margin: 14px;
+}
+textarea {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
