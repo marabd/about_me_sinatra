@@ -1,7 +1,7 @@
 require 'sinatra'
 require 'pry'
 
-get '/about_me' do
+get '/' do
 	erb :intro
 end
 
